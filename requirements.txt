@@ -1,6 +1,6 @@
-numpy==1.15.1
+numpy==1.16
 scipy==1.1.0
 matplotlib==2.1.1
 scikit-learn==0.20.1
 pandas==0.23.4
-graphviz==2.40.1
+keras==2.2.5
