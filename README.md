@@ -8,8 +8,8 @@
 You will find in this gitlab repository the necessary material for the teaching of
 _Machine Learning_:
 
-- course materials for the lessons ([slides](https://gricad-gitlab.univ-grenoble-alpes.fr/chatelaf%2Fconference-ia/-/tree/master/slides))
-- examples and exercises for the labs in the form of [Jupyter python notebooks](https://gricad-gitlab.univ-grenoble-alpes.fr/chatelaf%2Fconference-ia/-/tree/master/notebooks) (`.ipynb` files) and/or via online applications,
+- course materials for the lessons ([slides](https://gricad-gitlab.univ-grenoble-alpes.fr/chatelaf/conference-ia/-/tree/master/slides))
+- examples and exercises for the labs in the form of [Jupyter python notebooks](https://gricad-gitlab.univ-grenoble-alpes.fr/chatelaf/conference-ia/-/tree/master/notebooks) (`.ipynb` files) and/or via online applications,
 <!--- quiz: [Socrative](https://b.socrative.com/login/student/) online tool, room *MLASI*-->
 
 These resources will be updated as the sessions progress.
@@ -34,7 +34,7 @@ In order to run them you have several possibilities:
 3. Use a `jupyterhub` online service, so that you can save your modifications and results. There are many online `jupyterhub` services.  For example the one from google, namely [google-colab](https://colab.research.google.com/), which allows you to run/save your notebooks and also to _share the edition to several collaborators_ (requires a google account and upload your notebooks+data in your Drive)
 
 
-**Note :** You will also find among the notebooks an introduction to Python [notebooks/0_python_in_a_nutshell](https://gricad-gitlab.univ-grenoble-alpes.fr/chatelaf%2Fconference-ia/-/tree/master/notebooks%2F0_python_in_a_nutshell)
+**Note :** You will also find among the notebooks an introduction to Python [notebooks/0_python_in_a_nutshell](https://gricad-gitlab.univ-grenoble-alpes.fr/chatelaf/conference-ia/-/tree/master/notebooks%2F0_python_in_a_nutshell)
 
 
   1) Python (> 3.3), Jupyter notebook and scikit-learn package. It is recommended to install them via <a href="https://www.anaconda.com/downloads">Anaconda Distribution</a>
