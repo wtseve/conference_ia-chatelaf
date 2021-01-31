@@ -14,6 +14,14 @@ _Machine Learning_:
 
 These resources will be updated as the sessions progress.
 
+Classes are held during the week of February 2 to 5, 2021, according to the following schedule
+
+|             | Monday        | Tuesday          | Wednesday      | Thursday                  |
+|-------------|---------------|------------------|----------------|---------------------------|
+| 09h30-12h45 | Intro         | Classif (Cont'd) | Clustering     | Neural Nets: basics, deep |
+| 14h15-17h30 | PCA + Classif | Linear models    | Random Forests | Recurrent Neural Nets     |
+
+
 ### How to run the notebooks?
 
 The examples and exercises will be done under python 3.x through [scikit-learn](https://scikit-learn.org/), and also [tensorflow](https://www.tensorflow.org/). These are two of the most widely used machine learning packages.
