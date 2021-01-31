@@ -16,7 +16,7 @@ These resources will be updated as the sessions progress.
 
 Classes are held during the week of February 2 to 5, 2021, according to the following schedule
 
-|             | Monday        | Tuesday          | Wednesday      | Thursday                  |
+|             | Tuesday       | Wednesday        | Thursday       | Friday                    |
 |-------------|---------------|------------------|----------------|---------------------------|
 | 09h30-12h45 | Intro         | Classif (Cont'd) | Clustering     | Neural Nets: basics, deep |
 | 14h15-17h30 | PCA + Classif | Linear models    | Random Forests | Recurrent Neural Nets     |
