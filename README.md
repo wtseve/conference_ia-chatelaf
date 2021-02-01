@@ -45,14 +45,6 @@ In order to run them you have several possibilities:
 **Note :** You will also find among the notebooks an introduction to Python [notebooks/0_python_in_a_nutshell](https://gricad-gitlab.univ-grenoble-alpes.fr/chatelaf/conference-ia/-/tree/master/notebooks%2F0_python_in_a_nutshell)
 
 
-  1) Python (> 3.3), Jupyter notebook and scikit-learn package. It is recommended to install them via <a href="https://www.anaconda.com/downloads">Anaconda Distribution</a>
-    which will install these dependencies directly.
-  2) *OR* use the mybinder service to run them remotely and interactively (open the link and wait a few seconds for the first connection so that the environment loads):
-     <!--  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgricad-gitlab.univ-grenoble-alpes.fr%2Fchatelaf%2Fconference-ia/d98a199f66d603b0b1e7c25fbe1341d29a40cd39?filepath=notebooks)-->
-     [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgricad-gitlab.univ-grenoble-alpes.fr%2Fchatelaf%2Fconference-ia/master?urlpath=lab/tree/notebooks)
-link  to run these examples
-
-
 ### Miscellaneous remarks on the materials
 
 - The slides are designed to be self-sufficient (even if the narrative side is often limited by the format).
